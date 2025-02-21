@@ -7,6 +7,7 @@ Download and install Ollama on your local machine from the [official website](ht
 ```bash
   ollama pull deepseek-r1:14b
 ```
+Install the dependencies
 ```bash
   pip install -r requirements.txt
 ```
